@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 2">
+  <title
+     id="title2987">Laser A4 Template</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2914062"
+     inkscape:cx="516.33758"
+     inkscape:cy="527.22471"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     width="1200mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-grids="false"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1mm"
+       spacingy="1mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Laser A4 Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26654)">
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 294.09447,248.03149 425.19686,0 c 15.70394,0 28.34646,12.64252 28.34646,28.34646 l 0,92.12598 c 0,15.70394 -12.64252,28.34646 -28.34646,28.34646 l -425.19686,0 c -15.70393,0 -28.34645,-12.64252 -28.34645,-28.34646 l 0,-92.12598 c 0,-15.70394 12.64252,-28.34646 28.34645,-28.34646 z"
+       id="rect2991"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       transform="translate(0,308.26654)" />
+    <path
+       style="color:#000000;fill:#ffff00;stroke:#ff0000;stroke-width:0.098809;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 230.60673,161.17809 c 0,9.78457 1.3561,25.50738 -7.26679,25.50738 l -38.63165,0 -36.97372,0 c -7.98221,0 -6.29406,-17.01971 -6.29406,-26.80428 0,-19.56915 20.12168,-35.86545 44.58311,-35.86545 24.46143,0 44.58311,17.5932 44.58311,37.16235 z"
+       id="path2996"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscssss"
+       transform="matrix(5.4043985,0,0,2.3794536,-498.65287,260.90752)" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path2999"
+       d="m 708.66142,839.7626 c 0,46.56386 -98.11565,35.43307 -230.31496,35.43307 -132.19932,0 -248.0315,11.13079 -248.0315,-35.43307 0,-46.56388 108.74558,-109.99292 240.94489,-109.99292 132.19932,0 237.40157,63.42904 237.40157,109.99292 z"
+       style="color:#000000;fill:#ffff00;stroke:#ff0000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:#ff0000;stroke:#ff0000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 505.6875 45.28125 C 499.49066 45.28125 493.33502 45.383448 487.25 45.5625 C 486.43469 45.58649 485.62565 45.63041 484.8125 45.65625 C 483.60264 45.6947 482.39238 45.73634 481.1875 45.78125 C 479.30968 45.85124 477.42777 45.914139 475.5625 46 C 475.43719 46.0058 475.31275 46.02543 475.1875 46.03125 C 359.35433 51.409913 268.27627 86.54317 265.21875 128.46875 C 264.91235 130.21412 264.75 131.95792 264.75 133.71875 C 264.75 139.9075 264.22886 147.09503 264.34375 154.3125 C 264.32255 174.32969 268.7686 194.40625 299.15625 194.40625 L 304.03125 194.40625 L 498.96875 194.40625 L 512.8125 194.40625 L 707.75 194.40625 L 712.625 194.40625 C 743.63119 194.40625 747.63603 173.50664 747.4375 153.09375 C 747.43757 153.08325 747.43743 153.0729 747.4375 153.0625 C 747.4374 153.0521 747.43761 153.04165 747.4375 153.03125 C 747.4786 146.24988 747.03125 139.53923 747.03125 133.71875 C 747.03125 131.98928 746.85816 130.27709 746.5625 128.5625 C 746.5575 128.5322 746.5675 128.49895 746.5625 128.46875 C 743.50498 86.54317 652.42668 51.415227 536.59375 46.03125 C 534.59326 45.93827 532.57717 45.85901 530.5625 45.78125 C 529.29547 45.73235 528.0226 45.69627 526.75 45.65625 C 525.99915 45.63264 525.25272 45.58378 524.5 45.5625 C 524.37526 45.559 524.2498 45.5659 524.125 45.5625 C 522.23111 45.51028 520.31156 45.442412 518.40625 45.40625 C 518.27157 45.40365 518.13474 45.40875 518 45.40625 C 516.08355 45.37105 514.17742 45.33126 512.25 45.3125 C 512.12553 45.3113 511.99952 45.3136 511.875 45.3125 C 509.82116 45.29367 507.75311 45.28125 505.6875 45.28125 z M 399.59375 123.21875 C 403.50755 123.21875 406.6875 126.3987 406.6875 130.3125 C 406.6875 134.2263 403.50755 137.375 399.59375 137.375 C 395.67995 137.375 392.5 134.2263 392.5 130.3125 C 392.5 126.3987 395.67995 123.21875 399.59375 123.21875 z M 612.1875 123.21875 C 616.1013 123.21875 619.28125 126.3987 619.28125 130.3125 C 619.28125 134.2263 616.1013 137.375 612.1875 137.375 C 608.2737 137.375 605.09375 134.2263 605.09375 130.3125 C 605.09375 126.3987 608.2737 123.21875 612.1875 123.21875 z "
+       transform="translate(0,308.26654)"
+       id="path3001" />
+  </g>
+</svg>
